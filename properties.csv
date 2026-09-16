@@ -1,0 +1,141 @@
+property_id,project_name,builder,city,locality,property_type,bhk,area_sqft,price_per_sqft,base_price,floor_number,total_floors,possession_status,amenities_score,year_built
+RE5001,Palm Greens,Mahindra Lifespaces,Delhi NCR,Dwarka,Apartment,1,468,11227,5254000,7,20,Under Construction,3,2025
+RE5002,Meadow Gardens,Godrej Properties,Nagpur,Manish Nagar,Apartment,1,591,7977,4714000,11,11,Ready to Move,3,2025
+RE5003,Maple Enclave,Brigade Group,Nagpur,Wardha Road,Plot,0,5560,3590,19960000,0,0,Ready to Move,5,2020
+RE5004,Amber Residency,Mahindra Lifespaces,Ahmedabad,Satellite,Apartment,2,840,5298,4450000,7,23,Under Construction,10,2027
+RE5005,Royal Meadows,Kolte-Patil,Ahmedabad,SG Highway,Independent House,3,2399,7712,18501000,0,3,Under Construction,6,2025
+RE5006,Palm Residency,Kalpataru,Chennai,Anna Nagar,Penthouse,5,4459,13717,61164000,6,9,Ready to Move,5,2023
+RE5007,Pearl Grove,VTP Realty,Nagpur,Wardha Road,Plot,0,5571,7194,40078000,0,0,Ready to Move,3,2025
+RE5008,Emerald Residency,Gera Developments,Nashik,College Road,Apartment,1,519,8383,4351000,10,26,Ready to Move,10,2020
+RE5009,Palm County,Kalpataru,Nagpur,Manish Nagar,Apartment,4,1963,5876,11535000,10,28,Ready to Move,5,2019
+RE5010,Maple Vista,Shapoorji Pallonji,Nagpur,Manish Nagar,Plot,0,1660,3862,6411000,0,0,Ready to Move,2,2022
+RE5011,Palm Enclave,Prestige Group,Ahmedabad,SG Highway,Independent House,3,2189,5890,12893000,0,3,Ready to Move,6,2016
+RE5012,Orchid Gardens,Mahindra Lifespaces,Nashik,Gangapur Road,Apartment,1,487,7932,3863000,1,8,Under Construction,10,2027
+RE5013,Maple Heights,Rohan Builders,Ahmedabad,SG Highway,Apartment,4,1706,8444,14405000,8,10,Ready to Move,5,2017
+RE5014,Sunrise Heights,Kolte-Patil,Delhi NCR,Noida Extension,Apartment,2,924,5331,4926000,10,10,Ready to Move,9,2018
+RE5015,Crystal County,Nyati Group,Chennai,Velachery,Villa,4,2925,7889,23075000,0,2,Ready to Move,4,2018
+RE5016,Golden Vista,Godrej Properties,Mumbai,Chembur,Independent House,3,1965,8229,16170000,0,3,Ready to Move,3,2024
+RE5017,Orchid Address,Prestige Group,Chennai,OMR,Independent House,3,2330,7004,16319000,0,3,Ready to Move,8,2019
+RE5018,Crystal Greens,Mahindra Lifespaces,Hyderabad,Kondapur,Independent House,4,2632,5637,14837000,0,1,Under Construction,7,2026
+RE5019,Palm Meadows,Kolte-Patil,Chennai,Porur,Independent House,3,2257,6863,15490000,0,2,Ready to Move,6,2021
+RE5020,Pearl Park,Shapoorji Pallonji,Hyderabad,Miyapur,Villa,5,4460,6031,26898000,0,3,Ready to Move,4,2017
+RE5021,Orchid Residency,Rohan Builders,Nagpur,Wardha Road,Apartment,2,872,10964,9561000,13,27,Under Construction,10,2026
+RE5022,Pearl County,Kalpataru,Mumbai,Powai,Apartment,2,664,5738,3810000,8,8,Under Construction,8,2025
+RE5023,Serene Estate,Lodha Group,Ahmedabad,Satellite,Apartment,1,635,9822,6237000,7,17,Under Construction,6,2025
+RE5024,Royal Vista,Kolte-Patil,Chennai,Porur,Apartment,2,1041,9304,9685000,1,8,Ready to Move,8,2023
+RE5025,Serene Vista,Prestige Group,Ahmedabad,SG Highway,Penthouse,5,4133,17713,73208000,6,18,Ready to Move,3,2018
+RE5026,Emerald Vista,Kolte-Patil,Bangalore,Electronic City,Apartment,1,592,5005,2963000,4,19,Ready to Move,3,2019
+RE5027,Green Address,Mahindra Lifespaces,Hyderabad,Kukatpally,Apartment,1,579,8204,4750000,4,6,Under Construction,8,2027
+RE5028,Skyline County,Mahindra Lifespaces,Ahmedabad,Satellite,Apartment,3,1331,8662,11529000,9,11,Ready to Move,7,2024
+RE5029,Palm Park,Kolte-Patil,Hyderabad,Miyapur,Apartment,1,550,8121,4467000,2,6,Ready to Move,7,2017
+RE5030,Palm Towers,Gera Developments,Bangalore,Sarjapur Road,Apartment,2,889,6298,5599000,4,9,Under Construction,5,2027
+RE5031,Amber Greens,Lodha Group,Nagpur,Manish Nagar,Apartment,2,832,7109,5915000,15,21,Ready to Move,10,2016
+RE5032,Pearl Address,Lodha Group,Nagpur,Manish Nagar,Apartment,3,1362,5026,6845000,7,32,Ready to Move,4,2020
+RE5033,Maple Grove,Nyati Group,Chennai,OMR,Plot,0,3215,3561,11449000,0,0,Under Construction,3,2026
+RE5034,Amber Enclave,VTP Realty,Bangalore,Hebbal,Independent House,2,1485,4471,6639000,0,1,Ready to Move,7,2016
+RE5035,Palm County,Nyati Group,Mumbai,Chembur,Apartment,2,684,6666,4560000,14,21,Ready to Move,7,2025
+RE5036,Green Enclave,Brigade Group,Bangalore,Whitefield,Apartment,2,706,5822,4110000,11,13,Ready to Move,7,2024
+RE5037,Green Woods,VTP Realty,Hyderabad,Kukatpally,Apartment,2,788,7342,5785000,2,4,Ready to Move,10,2019
+RE5038,Meadow Towers,Mahindra Lifespaces,Nashik,Gangapur Road,Villa,5,4042,14110,57033000,0,2,Under Construction,6,2025
+RE5039,Maple Greens,Prestige Group,Delhi NCR,Dwarka,Penthouse,5,4746,19419,92163000,5,30,Under Construction,3,2025
+RE5040,Meadow Vista,Puravankara,Chennai,Anna Nagar,Apartment,1,620,11391,7062000,10,13,Under Construction,6,2027
+RE5041,Royal Greens,Godrej Properties,Chennai,OMR,Apartment,2,787,8152,6416000,11,21,Under Construction,6,2025
+RE5042,Crystal Woods,Lodha Group,Chennai,Porur,Apartment,1,535,7626,4080000,4,10,Ready to Move,3,2017
+RE5043,Royal Park,Brigade Group,Chennai,OMR,Apartment,1,550,4684,2576000,17,22,Ready to Move,5,2025
+RE5044,Sunrise Park,Gera Developments,Nagpur,Manish Nagar,Independent House,3,1953,6327,12357000,0,3,Ready to Move,9,2024
+RE5045,Palm Heights,Sobha Ltd,Bangalore,Whitefield,Penthouse,5,4817,19533,94090000,12,24,Ready to Move,4,2022
+RE5046,Royal Heights,Shapoorji Pallonji,Nashik,Gangapur Road,Villa,5,4144,10006,41465000,0,1,Ready to Move,4,2024
+RE5047,Skyline Meadows,Gera Developments,Mumbai,Thane West,Apartment,1,517,6423,3321000,15,24,Ready to Move,10,2022
+RE5048,Emerald Meadows,Rohan Builders,Mumbai,Thane West,Plot,0,1382,7554,10440000,0,0,Ready to Move,2,2021
+RE5049,Crystal Woods,Godrej Properties,Chennai,Velachery,Villa,3,2012,13903,27973000,0,1,Under Construction,6,2027
+RE5050,Skyline Residency,Shapoorji Pallonji,Nashik,College Road,Independent House,3,2275,7816,17781000,0,3,Under Construction,6,2026
+RE5051,Crystal Woods,Mahindra Lifespaces,Mumbai,Thane West,Apartment,4,1678,11216,18820000,2,10,Ready to Move,4,2018
+RE5052,Royal Residency,Mahindra Lifespaces,Ahmedabad,SG Highway,Plot,0,5942,7674,45599000,0,0,Under Construction,2,2026
+RE5053,Maple Woods,Shapoorji Pallonji,Nashik,College Road,Apartment,1,575,10083,5798000,12,17,Under Construction,9,2026
+RE5054,Pearl Meadows,Lodha Group,Mumbai,Chembur,Apartment,3,1529,7762,11868000,19,32,Under Construction,7,2026
+RE5055,Royal Grove,VTP Realty,Mumbai,Thane West,Apartment,1,542,8006,4339000,1,7,Ready to Move,7,2018
+RE5056,Skyline Towers,Kolte-Patil,Hyderabad,Kukatpally,Apartment,3,1197,10833,12967000,25,29,Under Construction,9,2027
+RE5057,Skyline Enclave,Kalpataru,Ahmedabad,Bopal,Independent House,2,1620,7693,12463000,0,2,Under Construction,10,2025
+RE5058,Royal Estate,Brigade Group,Ahmedabad,Bopal,Apartment,4,1951,6808,13282000,9,24,Under Construction,9,2027
+RE5059,Silver Residency,Rohan Builders,Hyderabad,Kukatpally,Apartment,4,1722,5870,10108000,32,32,Ready to Move,6,2023
+RE5060,Orchid Vista,Prestige Group,Delhi NCR,Greater Noida West,Apartment,2,774,5243,4058000,6,11,Ready to Move,7,2025
+RE5061,Serene Meadows,Gera Developments,Hyderabad,Gachibowli,Independent House,3,2192,7390,16199000,0,2,Ready to Move,3,2023
+RE5062,Maple Towers,Sobha Ltd,Chennai,Velachery,Apartment,2,697,6720,4684000,10,17,Under Construction,3,2025
+RE5063,Maple Grove,Lodha Group,Pune,Kharadi,Independent House,3,2301,4001,9206000,0,2,Ready to Move,10,2019
+RE5064,Meadow Address,Rohan Builders,Mumbai,Powai,Apartment,1,634,10242,6493000,5,6,Under Construction,3,2025
+RE5065,Emerald Woods,Prestige Group,Bangalore,Electronic City,Villa,3,2660,10977,29199000,0,2,Ready to Move,4,2017
+RE5066,Skyline Gardens,Sobha Ltd,Mumbai,Chembur,Apartment,2,848,6637,5628000,10,21,Ready to Move,10,2020
+RE5067,Maple Estate,Godrej Properties,Delhi NCR,Dwarka,Apartment,2,930,6523,6066000,1,5,Under Construction,6,2026
+RE5068,Green Estate,Shapoorji Pallonji,Nagpur,Wardha Road,Apartment,4,1979,6357,12581000,12,17,Ready to Move,9,2019
+RE5069,Golden Woods,Shapoorji Pallonji,Pune,Baner,Independent House,4,2469,5681,14026000,0,1,Under Construction,6,2026
+RE5070,Silver Meadows,Kalpataru,Hyderabad,Kukatpally,Independent House,3,1911,8061,15405000,0,3,Ready to Move,3,2025
+RE5071,Green Estate,Puravankara,Bangalore,Hebbal,Apartment,1,602,5662,3409000,15,16,Ready to Move,8,2017
+RE5072,Crystal Heights,Gera Developments,Mumbai,Powai,Apartment,2,984,8799,8658000,13,27,Ready to Move,8,2021
+RE5073,Maple Residency,Kolte-Patil,Nashik,Gangapur Road,Apartment,1,521,5161,2689000,7,28,Under Construction,9,2026
+RE5074,Pearl County,Mahindra Lifespaces,Chennai,Anna Nagar,Apartment,4,1800,7553,13595000,12,15,Ready to Move,10,2016
+RE5075,Crystal Residency,Godrej Properties,Nagpur,Wardha Road,Independent House,3,1841,7076,13027000,0,1,Under Construction,7,2025
+RE5076,Royal Estate,Godrej Properties,Mumbai,Mulund,Apartment,3,1271,9554,12143000,5,14,Under Construction,7,2025
+RE5077,Maple Address,VTP Realty,Mumbai,Andheri West,Penthouse,3,2986,16630,49657000,16,17,Ready to Move,5,2023
+RE5078,Golden Greens,Kalpataru,Bangalore,Whitefield,Independent House,4,2710,5239,14198000,0,2,Under Construction,8,2027
+RE5079,Emerald Heights,Lodha Group,Mumbai,Mulund,Apartment,2,776,7840,6084000,11,21,Ready to Move,5,2022
+RE5080,Crystal Estate,Puravankara,Mumbai,Andheri West,Apartment,1,503,5289,2660000,4,9,Under Construction,5,2026
+RE5081,Royal Gardens,Brigade Group,Nashik,Gangapur Road,Independent House,4,2524,6407,16171000,0,2,Ready to Move,7,2019
+RE5082,Golden Greens,Kalpataru,Nashik,Gangapur Road,Apartment,2,728,6804,4953000,4,12,Ready to Move,6,2017
+RE5083,Pearl Greens,Shapoorji Pallonji,Nashik,Gangapur Road,Apartment,4,1836,11385,20903000,4,13,Ready to Move,4,2016
+RE5084,Sunrise Woods,Shapoorji Pallonji,Hyderabad,Kondapur,Plot,0,5199,3956,20567000,0,0,Under Construction,1,2025
+RE5085,Royal Heights,Sobha Ltd,Delhi NCR,Dwarka,Apartment,3,1172,4861,5697000,7,24,Under Construction,3,2026
+RE5086,Skyline County,Godrej Properties,Nagpur,Manish Nagar,Apartment,3,1139,6166,7023000,4,6,Ready to Move,4,2022
+RE5087,Amber Woods,Puravankara,Ahmedabad,Bopal,Villa,3,2668,8681,23161000,0,2,Ready to Move,7,2022
+RE5088,Meadow Address,Godrej Properties,Pune,Baner,Independent House,3,2224,7411,16482000,0,2,Under Construction,6,2026
+RE5089,Meadow Residency,Lodha Group,Nagpur,Wardha Road,Plot,0,2282,5971,13626000,0,0,Ready to Move,3,2023
+RE5090,Palm Gardens,Puravankara,Bangalore,Electronic City,Apartment,2,978,11106,10862000,12,15,Under Construction,5,2025
+RE5091,Crystal Address,Puravankara,Delhi NCR,Gurgaon Sector 82,Apartment,2,684,5391,3687000,7,29,Under Construction,7,2025
+RE5092,Sunrise Estate,Gera Developments,Pune,Kharadi,Apartment,4,1688,11907,20099000,4,9,Under Construction,9,2027
+RE5093,Silver Towers,Mahindra Lifespaces,Hyderabad,Miyapur,Apartment,2,671,7774,5216000,4,8,Ready to Move,6,2016
+RE5094,Crystal Vista,Kalpataru,Ahmedabad,Satellite,Apartment,3,1160,7693,8924000,10,28,Under Construction,9,2026
+RE5095,Silver Heights,Shapoorji Pallonji,Hyderabad,Miyapur,Apartment,3,1328,8625,11454000,15,19,Ready to Move,6,2023
+RE5096,Orchid Towers,Prestige Group,Nashik,Gangapur Road,Independent House,3,1909,4549,8684000,0,2,Ready to Move,3,2016
+RE5097,Skyline Vista,Godrej Properties,Bangalore,Whitefield,Plot,0,5190,3155,16374000,0,0,Under Construction,2,2025
+RE5098,Royal Address,Shapoorji Pallonji,Mumbai,Mulund,Independent House,2,1398,5078,7099000,0,1,Under Construction,6,2025
+RE5099,Silver Woods,Shapoorji Pallonji,Delhi NCR,Gurgaon Sector 82,Apartment,3,1563,11181,17476000,7,19,Ready to Move,7,2025
+RE5100,Silver Park,Puravankara,Ahmedabad,Bopal,Apartment,1,500,5991,2996000,11,25,Under Construction,9,2025
+RE5101,Serene Gardens,Mahindra Lifespaces,Chennai,OMR,Independent House,2,1568,7711,12091000,0,1,Under Construction,7,2027
+RE5102,Orchid Address,Kolte-Patil,Nagpur,Manish Nagar,Apartment,3,1395,5697,7947000,3,11,Ready to Move,3,2020
+RE5103,Green Meadows,Gera Developments,Ahmedabad,SG Highway,Apartment,3,1475,4514,6658000,21,23,Ready to Move,9,2022
+RE5104,Emerald Heights,Kalpataru,Ahmedabad,SG Highway,Penthouse,3,3000,12723,38169000,3,4,Ready to Move,7,2017
+RE5105,Silver Meadows,Kalpataru,Ahmedabad,SG Highway,Apartment,4,2197,6967,15306000,16,30,Ready to Move,5,2018
+RE5106,Silver Grove,Rohan Builders,Pune,Hinjewadi,Independent House,3,1898,4521,8581000,0,2,Under Construction,9,2026
+RE5107,Pearl Vista,Kalpataru,Pune,Wakad,Villa,5,3958,13270,52523000,0,1,Under Construction,5,2025
+RE5108,Green Address,Prestige Group,Pune,Wakad,Apartment,4,1790,6446,11538000,18,23,Ready to Move,6,2018
+RE5109,Royal Residency,Mahindra Lifespaces,Nagpur,Wardha Road,Apartment,4,2227,5930,13206000,4,5,Ready to Move,3,2022
+RE5110,Royal Meadows,Lodha Group,Nagpur,Manish Nagar,Apartment,4,1779,6350,11297000,3,7,Under Construction,7,2027
+RE5111,Royal Park,Brigade Group,Pune,Baner,Villa,5,4046,14572,58958000,0,1,Under Construction,4,2027
+RE5112,Silver Estate,Sobha Ltd,Pune,Hinjewadi,Apartment,2,1080,10593,11440000,7,10,Under Construction,8,2027
+RE5113,Green Grove,Gera Developments,Hyderabad,Miyapur,Plot,0,4867,6846,33319000,0,0,Ready to Move,2,2025
+RE5114,Silver Heights,Prestige Group,Chennai,Porur,Apartment,1,594,11961,7105000,5,7,Ready to Move,5,2021
+RE5115,Green Estate,Rohan Builders,Bangalore,Whitefield,Apartment,2,1004,9771,9810000,1,5,Ready to Move,8,2019
+RE5116,Golden Residency,Sobha Ltd,Ahmedabad,Satellite,Apartment,4,1709,6519,11141000,30,31,Ready to Move,4,2020
+RE5117,Maple Woods,Kolte-Patil,Nashik,Gangapur Road,Apartment,2,800,7114,5691000,5,12,Ready to Move,3,2021
+RE5118,Maple Heights,VTP Realty,Delhi NCR,Greater Noida West,Penthouse,5,4763,9507,45282000,4,28,Ready to Move,8,2023
+RE5119,Meadow Woods,Kalpataru,Pune,Viman Nagar,Villa,5,4482,7489,33566000,0,1,Ready to Move,6,2020
+RE5120,Meadow Enclave,VTP Realty,Pune,Wakad,Apartment,1,575,10195,5862000,12,22,Under Construction,7,2027
+RE5121,Palm Park,Prestige Group,Bangalore,Sarjapur Road,Independent House,4,2637,8082,21312000,0,2,Under Construction,4,2027
+RE5122,Pearl Park,Puravankara,Delhi NCR,Gurgaon Sector 82,Apartment,4,2363,5205,12299000,5,10,Ready to Move,7,2022
+RE5123,Sunrise Address,Mahindra Lifespaces,Ahmedabad,Satellite,Apartment,2,885,5539,4902000,21,23,Under Construction,3,2026
+RE5124,Orchid Enclave,Gera Developments,Delhi NCR,Dwarka,Penthouse,4,3877,18072,70065000,25,26,Ready to Move,7,2025
+RE5125,Royal Address,Brigade Group,Hyderabad,Kondapur,Apartment,2,909,6069,5517000,20,30,Under Construction,5,2027
+RE5126,Golden Greens,Prestige Group,Bangalore,Electronic City,Independent House,4,2934,6855,20113000,0,2,Under Construction,4,2025
+RE5127,Royal Towers,Gera Developments,Mumbai,Powai,Apartment,2,1056,6974,7365000,6,7,Ready to Move,4,2020
+RE5128,Maple Estate,VTP Realty,Hyderabad,Miyapur,Apartment,1,552,11498,6347000,10,24,Ready to Move,10,2016
+RE5129,Maple Estate,Nyati Group,Bangalore,Sarjapur Road,Villa,4,2805,9969,27963000,0,3,Under Construction,9,2025
+RE5130,Emerald Estate,Brigade Group,Hyderabad,Kondapur,Villa,4,3242,11128,36077000,0,2,Ready to Move,6,2022
+RE5131,Meadow Towers,Kalpataru,Bangalore,Sarjapur Road,Penthouse,4,3666,9322,34174000,6,25,Ready to Move,8,2016
+RE5132,Golden Enclave,Mahindra Lifespaces,Nagpur,Manish Nagar,Plot,0,1312,4558,5980000,0,0,Under Construction,2,2027
+RE5133,Crystal Vista,Gera Developments,Delhi NCR,Noida Extension,Penthouse,4,3754,12358,46392000,27,29,Ready to Move,8,2024
+RE5134,Serene Address,Puravankara,Delhi NCR,Greater Noida West,Independent House,3,2015,5505,11093000,0,3,Under Construction,8,2027
+RE5135,Maple Towers,Lodha Group,Pune,Baner,Apartment,4,1662,4609,7660000,12,25,Under Construction,7,2025
+RE5136,Golden Enclave,Shapoorji Pallonji,Hyderabad,Kukatpally,Independent House,4,2624,7210,18919000,0,1,Ready to Move,6,2023
+RE5137,Meadow Grove,Rohan Builders,Ahmedabad,Satellite,Apartment,2,830,9956,8263000,15,17,Under Construction,7,2027
+RE5138,Emerald Woods,Puravankara,Bangalore,Hebbal,Apartment,2,786,10268,8071000,6,25,Under Construction,10,2025
+RE5139,Maple Gardens,Shapoorji Pallonji,Chennai,Velachery,Apartment,3,1264,8428,10653000,12,25,Under Construction,5,2026
+RE5140,Meadow Greens,Mahindra Lifespaces,Nagpur,Wardha Road,Apartment,3,1501,5650,8481000,1,4,Under Construction,6,2025
